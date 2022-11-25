@@ -3,6 +3,8 @@
 Creating a Databese Table
 Use mysql database 8.0 server.
 
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
 CREATE TABLE `log_any` (
   `id` int NOT NULL AUTO_INCREMENT,
