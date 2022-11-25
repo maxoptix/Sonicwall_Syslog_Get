@@ -3,7 +3,9 @@
 Creating a Databese Table
 Use mysql database 8.0 server.
 
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s1.jpg))
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s2.jpg))
+![This is an image]([https://myoctocat.com/assets/images/base-octocat.svg](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s3.jpg))
 
 
 CREATE TABLE `log_any` (
