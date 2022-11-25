@@ -1,12 +1,13 @@
 # Sonicwall_Syslog_Get
 
-Creating a Databese Table
-Use mysql database 8.0 server.
+Sonicwall SYSLOG Config
 
 ![This is an image](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s1.jpg)
 ![This is an image](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s2.jpg)
 ![This is an image](https://github.com/maxoptix/Sonicwall_Syslog_Get/releases/download/untagged-066623e0df2d4f4c1d36/s3.jpg)
 
+Creating a Databese Table
+Use mysql database 8.0 server.
 
 CREATE TABLE `log_any` (
   `id` int NOT NULL AUTO_INCREMENT,
